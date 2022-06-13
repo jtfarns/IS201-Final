@@ -1,0 +1,49 @@
+.title {
+    font-weight: bolder;
+    color: blue;
+    
+    text-shadow: 2in;
+}
+
+.subtitle {
+    color: darkslategrey;
+}
+
+.common {
+    background-color: rgb(226, 230, 198);
+    border: 2px;
+    border-color: rgb(0, 0, 0);
+    position: absolute;
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    text-align: center;
+    z-index: 1;
+
+}
+.body {
+    top:110px;
+    left: 5px;
+    right: 5px;
+    
+    text-align: center;
+    z-index: 2;
+}
+
+
+.footer {
+    bottom: 0px;
+    height: 18px;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+    font-size: small;
+    color: darkslategrey;
+    font-weight: bold;
+    z-index: 3;
+    position: fixed;
+
+}

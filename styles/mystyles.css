@@ -1,0 +1,20 @@
+.boldy {
+    color: rgb(250, 250, 250);
+}
+
+.linkcolor {
+    color: cornflowerblue;
+}
+
+.newfont {
+    font-family: cursive;
+}
+
+.bold {
+    font-weight: 900;
+    font-style: italic;
+}
+
+.fun {
+    font-stretch: ultra-condensed;
+}
